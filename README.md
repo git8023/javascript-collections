@@ -1,7 +1,7 @@
 # javascript-collections    
 用Javascript实现集合接口, 索引树:    
   * collections    
-    * [HashMap]( "HashMap")       
+    * [HashMap](https://github.com/git8023/javascript-collections#hashmap "HashMap")       
 
 # HashMap    
   用Javascript模拟实现Java中的`java.util.Map`接口, 详情API如下列表          
